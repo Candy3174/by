@@ -1,0 +1,826 @@
+||yandex^
+!
+! ======================================================================
+! Portal y buscador: yandex.<país>, ya.*, яндекс.* (ccTLD, gTLD y dominios defensivos)  [89]
+! ======================================================================
+! яндекс.дети
+||xn--d1acpjx3f.xn--d1acj3b^
+! яндекс.рф
+||xn--d1acpjx3f.xn--p1ai^
+||ya.cc^
+||ya.ga^
+||ya.im^
+||ya.nu^
+||ya.rs^
+||ya.ru^
+||yandex.adult^
+||yandex.aero^
+||yandex.app^
+||yandex.asia^
+||yandex.az^
+||yandex.best^
+||yandex.biz^
+||yandex.biz.tr^
+||yandex.by^
+||yandex.cc^
+||yandex.club^
+||yandex.co.il^
+||yandex.com^
+||yandex.com.am^
+||yandex.com.au^
+||yandex.com.ge^
+||yandex.com.kz^
+||yandex.com.ru^
+||yandex.com.tr^
+||yandex.com.ua^
+||yandex.de^
+||yandex.dk^
+||yandex.do^
+||yandex.ee^
+||yandex.es^
+||yandex.eu^
+||yandex.fi^
+||yandex.fr^
+||yandex.ga^
+||yandex.gt^
+||yandex.ie^
+||yandex.in^
+||yandex.info.tr^
+||yandex.is^
+||yandex.it^
+||yandex.kg^
+||yandex.kz^
+||yandex.llc^
+||yandex.lt^
+||yandex.lu^
+||yandex.lv^
+||yandex.md^
+||yandex.me^
+||yandex.mobi^
+||yandex.mx^
+||yandex.my^
+||yandex.name^
+||yandex.nl^
+||yandex.no^
+||yandex.nu^
+||yandex.onl^
+||yandex.org^
+||yandex.org.kz^
+||yandex.pink^
+||yandex.pl^
+||yandex.porn^
+||yandex.pro^
+||yandex.pt^
+||yandex.qa^
+||yandex.re^
+||yandex.ro^
+||yandex.rs^
+||yandex.ru^
+||yandex.security^
+||yandex.site^
+||yandex.sk^
+||yandex.so^
+||yandex.software^
+||yandex.su^
+||yandex.swiss^
+||yandex.sx^
+||yandex.tel^
+||yandex.tj^
+||yandex.tm^
+||yandex.tr^
+||yandex.ua^
+||yandex.us^
+||yandex.uz^
+||yandex.video^
+||yandex.web.tr^
+||yandex.ws^
+!
+! ======================================================================
+! Variantes de la marca, dominios corporativos (yandex-team) y errores tipográficos defensivos  [37]
+! ======================================================================
+||2yandex.ru^
+||jandeks.com.tr^
+||jandex.com.tr^
+||kremlyandex.ru^
+||money-yandex.ru^
+||ndex.ru^
+||newsyandex.ru^
+||siteforyandex.com^
+||sportyandex.com^
+||video-yandex.ru^
+||videoyandex.ru^
+||wwwyandex.ru^
+||xyyandex.net^
+||ya-plus-plus.ru^
+||ya-plusplus.ru^
+||yanclex.ru^
+||yandeks.com^
+||yandeks.com.tr^
+||yandes.ru^
+||yandesk.com^
+||yandesk.org^
+||yandesk.ru^
+||yandex-ad.cn^
+||yandex-plus-plus.ru^
+||yandex-plusplus.ru^
+||yandex-rambler.ru^
+||yandex-team.com^
+||yandex-team.com.tr^
+||yandex-team.com.ua^
+||yandex-team.net.ua^
+||yandex-team.ru^
+||yandex-video.ru^
+||yandexplusplus.ru^
+||yandexvideo.ru^
+||yandfex.ru^
+||yandx.ru^
+||yaplusplus.ru^
+!
+! ======================================================================
+! Infraestructura, CDN, estáticos, caché y DNS internos  [32]
+! ======================================================================
+||anothergateway.com^
+||cdnclab.net^
+||clients.site^
+||clstorage.net^
+||crt-acme-challenge.net^
+||crt-test-acme-challenge.ru^
+||crt-test-alpha.ru^
+||crt-test-beta.ru^
+||d31j93rd8oukbv.cloudfront.net^
+||naydex-net.ru^
+||naydex.net^
+||privcloud.ru^
+||static-storage-net.ru^
+||static-storage.net^
+||tst-clients.site^
+||turbo.site^
+||turbopages.org^
+||yandex-net.ru^
+||yandex.net^
+||yandex.net.ru^
+||yandex.st^
+||yandexcom.net^
+||yandexwebcache.net^
+||yandexwebcache.org^
+||yanet.org^
+||yantp.net^
+||yastat.net^
+||yastatic-net.ru^
+||yastatic.net^
+||yccdn.ru^
+||yndx.net^
+||z5h64q92x9.net^
+!
+! ======================================================================
+! Publicidad, analítica y rastreo (Direct, Metrica, AppMetrica, AdFox, Webvisor, ADFOX...)  [71]
+! ======================================================================
+||addappter.com^
+||addappter.ru^
+||adfox.me^
+||adfox.mobi^
+||adfox.net^
+||adfox.ru^
+||admetrica.ru^
+||admetrika.ru^
+||ads-sales.com^
+||adsawards.pro^
+||adsmobiledisruptor.one^
+||adsmobiledisruptorcdn.net^
+||appmetrica.com^
+||appmetrica.io^
+||appmetrica.ru^
+||awaps.com^
+||awaps.net^
+||blackfriday-direct.ru^
+||bobtestpage.info^
+||caroltestpage.info^
+||corpfinance.direct^
+||directcursustech.com^
+||directstudent.ru^
+||directstudy.ru^
+||directstudyag.ru^
+||directstudybiz.ru^
+||elama.ru^
+||evetestpage.info^
+||k50.ru^
+||kfifty.com^
+||legal.direct^
+||megastats.ru^
+||metrika-inf.com^
+||metrika-informer.com^
+||plus-adtech.net^
+||plus-adtech.org^
+||plus-adtech.ru^
+||plusadtech.com^
+||plusadtech.net^
+||plusadtech.org^
+||plusadtech.ru^
+||preview-adfox.ru^
+||promo.page^
+||rbdirectstudyag.ru^
+||rbdirectstudybiz.ru^
+||sitewithannoyingads.com^
+||varioqub.com^
+||varioqub.ru^
+||visor.ru^
+||vizor.ru^
+||web-visor.com^
+||webvisor.com^
+||webvisor.net^
+||webvisor.org^
+||webvisor.ru^
+! адфокс.рф
+||xn--80aispqp.xn--p1ai^
+! яндексдирект.рф
+||xn--d1aacbokdr6ahq9l.xn--p1ai^
+! эдфокс.рф
+||xn--d1amlnm6c.xn--p1ai^
+||yads.tech^
+||yandex-metrica.ru^
+||yandex-plus-adtech.com^
+||yandex-plus-adtech.net^
+||yandexadexchange.net^
+||yandexadtech.net^
+||yandexadtech.ru^
+||yandexmetrica.com^
+||yandexmetrika.ru^
+||yandexplusadtech.org^
+||yango-ads.com^
+||ybanner.com^
+||ymetrica1.com^
+!
+! ======================================================================
+! Cuentas, nube, correo, Disk, acortadores y finanzas  [25]
+! ======================================================================
+||clck.ly^
+||clck.ru^
+||loginza.biz^
+||loginza.com^
+||loginza.info^
+||loginza.net^
+||loginza.org^
+||loginza.ru^
+||sourcecraft.dev^
+||spamoborona.com^
+||spamoborona.ru^
+||spamooborona.com^
+||split.ru^
+||splitani.ru^
+||test-support360-sso.net^
+||testadmin360.ru^
+! спамооборона.рф
+||xn--80aac7bgeabadre.xn--p1ai^
+||yadi.sk^
+||yadisk.cc^
+||yandex-bank.net^
+||yandex.cloud^
+||yandex.money^
+||yandexbox.ru^
+||yandexcloud.kz^
+||yandexcloud.net^
+!
+! ======================================================================
+! Yandex Go / Taxi / Yango / Eats / Lavka / Delivery / logística  [90]
+! ======================================================================
+||berizaryad.ru^
+||boxberry.ru^
+||boxbot-tools.ru^
+||cabconnect.org^
+||dclub.ru^
+||deli.store^
+||deliuery-club.ru^
+||delivery-club.app^
+||delivery-club.ru^
+||deliverycast.ru^
+||deliveryclub.kz^
+||deliveryclub.ru^
+||deliverycup.ru^
+||delivory-clud.ru^
+||deliwery-club.ru^
+||driveawaytaxi.org^
+||drivematics.ru^
+||eda-pack.ru^
+||eda-packaging.ru^
+||eda.rest^
+||express24.uz^
+||fasten.by^
+||fasten.com^
+||fasten.kz^
+||fasten.ru^
+||flot-finance.ru^
+||foodfox.ru^
+||foodtechsarl.com^
+||gogettaxi.org^
+||goup.ai^
+||hayya.ae^
+||kronos-taxi.com^
+||lavka-team.ru^
+||lavka.tech^
+||market-delivery.ru^
+||menu.am^
+||micromobilnost.com^
+||mikromobilnost-belgrade.com^
+||mini.taxi^
+||my-manager-account.com^
+||openkitchen.media^
+||partiyaedi.ru^
+||redtaxi.ru^
+||rostaxi.org^
+||routelab.info^
+||routelab.me^
+||routelab.tech^
+||routlab.com^
+||routlab.info^
+||routlab.me^
+||routlab.net^
+||rutaxi.ru^
+||rutaxi.taxi^
+||saturntaxi.ru^
+||shop-boxberry.com^
+||signalq.ru^
+||support-uber.com^
+||support-vezet.ru^
+||tap-taxi.com^
+||tap-taxi.net^
+||tap-taxi.ru^
+||taptaxi.ru^
+||taxi-leader.ru^
+||taxiaid.org^
+||taxiguru.org^
+||taxiqc.ru^
+||taxisaturn.ru^
+||taxitax.org^
+||vezemdobro.com^
+||vezemdobro.ru^
+||vezet-dobro.com^
+||vezet.digital^
+||vezet.group^
+||vezet.ru^
+||vezet.su^
+||yandexgo.com^
+||yango-b2b.com^
+||yango-team.com^
+||yango-tech.com^
+||yango.africa^
+||yango.ao^
+||yango.bh^
+||yango.co.il^
+||yango.com^
+||yango.delivery^
+||yango.fi^
+||yango.qa^
+||yango.taxi^
+||yango.tech^
+||yangofellowship.com^
+!
+! ======================================================================
+! Market, Edadeal, comercio, reservas y servicios B2B/SMB  [87]
+! ======================================================================
+||acase-static.ru^
+||acase.ru^
+||aptekivse.ru^
+||beru.app^
+||beru.ru^
+||bringly.ru^
+||bus-yandex.ru^
+||busyandex.ru^
+||commo.kz^
+||commo.ru^
+||cubits.kz^
+||cubits.ru^
+||digitaltraveltech.ru^
+||dikidi.app^
+||dikidi.kz^
+||dikidi.net^
+||dikidi.online^
+||dikidi.ru^
+||dikidi.tech^
+||domyland.app^
+||domyland.club^
+||domyland.com^
+||domyland.dev^
+||domyland.ru^
+||domyland.su^
+||edade.al^
+||edadeal.by^
+||edadeal.com^
+||edadeal.info^
+||edadeal.io^
+||edadeal.net^
+||edadeal.ru^
+||edadev.ru^
+||edadil.com^
+||edadil.ru^
+||edaprod.ru^
+||edastage.by^
+||edastage.ru^
+||edastatic.ru^
+||fabrica.family^
+||fseapteki.ru^
+||hotel-yandex.ru^
+||hotels-yandex.ru^
+||hotelsyandex.ru^
+||hotelyandex.ru^
+||junion.kz^
+||junion.ru^
+||leclick.ru^
+||market-360.ru^
+||market.ru^
+||metabar.ru^
+||nocord-tools.kz^
+||nocord-tools.ru^
+||nocordtools.ru^
+||nota-claim.ru^
+||notaclaim.ru^
+||partner-sprav.ru^
+||partner-test-yamagistrali.ru^
+||podberi.ru^
+||pragmahome.com^
+||pragmahome.kz^
+||pragmahome.ru^
+||price-lab.ru^
+||price-labs.ru^
+||pricelab.ru^
+||procu.ru^
+||qrshelf.online^
+||realtyverif.ru^
+||rooms.place^
+||samolat.ru^
+||scantobuy.ru^
+||shop-assistant.ru^
+||skeala.com^
+||skeala.ru^
+||smartreserve.pro^
+||smartreserve.ru^
+||supercheck.ru^
+||travel-support.ru^
+||tuvio.kz^
+||tuvio.market^
+||tuvio.ru^
+||useapteki.ru^
+||vceapteki.ru^
+||vendor-forms.com^
+||yandex-fabrica.com^
+||yandex.market^
+||yandex.travel^
+!
+! ======================================================================
+! Entretenimiento: Kinopoisk, Music, Books, Games, Alice, Shedevrum, Afisha  [86]
+! ======================================================================
+||3d-tour-game.ru^
+||8-bit.ru^
+||alice.chat^
+||alice.shop^
+||aliceshop.ru^
+||alisa.ai^
+||allplay.uz^
+||allwebgames.com^
+||ask-the-crowd.ru^
+||band.link^
+||bandlink.media^
+||bandlink.ru^
+||bandtraq.com^
+||bandwidget.com^
+||blgr.lc^
+||bnd.lc^
+||bookmate.com^
+||bookmate.kz^
+||bookmate.ru^
+||comiccon.ru^
+||cyberslave.ru^
+||cyberslavendlessnight.ru^
+||cyberslaveternalnight.ru^
+||cyberslavgame.ru^
+||cyberslavigra.ru^
+||cyberslavik.com^
+||cyberslavnighteternal.ru^
+||cyberslavtheeternalnight.ru^
+||cyberslavthegame.com^
+||cyberslavthegame.ru^
+||devices.ru^
+||gametok.com^
+||hd-kinopoisk.com^
+||hd-kinopoisk.ru^
+||hd.ru^
+||igrotok.com^
+||igrotok.ru^
+||juegocasa.com^
+||juegozona.com^
+||kimopoisk.ru^
+||kino-poisk.ru^
+||kinopoi.sk^
+||kinopoisk-hd.com^
+||kinopoisk-hd.ru^
+||kinopoisk.by^
+||kinopoisk.gold^
+||kinopoisk.net^
+||kinopoisk.ru^
+||kinopoisk.sport^
+||kinopoisk.ua^
+||kinopoisk.vip^
+||kinopoisksport.ru^
+||merchproject.studio^
+||muz.lc^
+||mykp.ru^
+||neurodub.com^
+||neurum.ai^
+||plaihop.com^
+||play-hop.com^
+||playhop.app^
+||playhop.co^
+||playhop.com^
+||playhop.fun^
+||playhop.online^
+||playhop.ru^
+||playhop.store^
+||playhops.com^
+||shedevroom.com^
+||shedevroom.ru^
+||shedevrum.ai^
+||shedevrum.com^
+||shedevrum.kz^
+||shedevrum.ru^
+||shedevrus.ru^
+||thequestion.com^
+||thequestion.ru^
+||ticketsend.net^
+||ticketsplus.show^
+||ticketsteam.ru^
+! кино-говно.рф
+||xn----dtbcsjtdecc.xn--p1ai^
+! кинокадр.рф
+||xn--80aikhbrht.xn--p1ai^
+! букмейт.рф
+||xn--90aimck2bc.xn--p1ai^
+! трейлеры.рф
+||xn--e1aaliwei2f.xn--p1ai^
+! кинопремия.рф
+||xn--e1afbfmehij7m.xn--p1ai^
+! кинопоиск.рф
+||xn--h1aaecngahu.xn--p1ai^
+! филмпро.рф
+||xn--h1agdiegx.xn--p1ai^
+!
+! ======================================================================
+! Mapas, clima e IA (marcas internacionales)  [6]
+! ======================================================================
+||mappable.co^
+||mappable.world^
+||meteum.ai^
+||meteum.es^
+||neurometeum.com^
+! яндекс-карты.рф
+||xn----8sbkezbq4afo3hrb.xn--p1ai^
+!
+! ======================================================================
+! Educación, empleo, conferencias y proyectos open source de Yandex  [46]
+! ======================================================================
+||academonline.ru^
+||ai-alliance.com^
+||ai-russia.org^
+||airussia.org^
+||backtobackconf.com^
+||backtobackconf.ru^
+||catboost.ai^
+||catboost.org^
+||contest.app^
+||diplodoc.com^
+||divkit.pro^
+||divkit.tech^
+||ecomfest.ru^
+||gravity-ui.com^
+||itheadsclub.ru^
+||itstandup.com^
+||itstandup.ru^
+||kuberconf.com^
+||kuberconf.io^
+||ml-handbook.ru^
+||nexthopconf.com^
+||perforator.dev^
+||perforator.tech^
+||practicum.courses^
+||practicum.education^
+||praktikum-services.ru^
+||product-fest.ru^
+||rekonfa.ru^
+||rucola-benchmark.com^
+||userver-framework.org^
+||userver-framework.tech^
+||userver.tech^
+||yandex-labs.ru^
+||yandex-school.ru^
+||yandex.jobs^
+||yandex.study^
+||yandexdatafactory.com^
+||yandexdatafactory.ru^
+||yandexdataschool.com^
+||yandexdataschool.ru^
+||yandexlyceum.ru^
+||yandexscale2020.com^
+||ydb.tech^
+||ydf-conference.com^
+||ysda.ru^
+||ytsaurus.tech^
+!
+! ======================================================================
+! Empresas adquiridas y servicios antiguos (Punto, Agnitum, SPB, Loginza, Fotki...)  [32]
+! ======================================================================
+||agnitum.com^
+||agnitum.net^
+||agnitum.org^
+||agnitum.ru^
+||dk-point.su^
+||fotka.ru^
+||fotki.ru^
+||ilyasegalovich.com^
+||ilyasegalovich.ru^
+||mnogoavto.ru^
+||punto-switcher.com^
+||punto-switcher.ru^
+||punto.ru^
+||spb.com^
+||spbgo.com^
+||spbsoftware.com^
+||volozh.ru^
+! найдется-все.рф
+||xn----7sbhgfcx4a4bch1n.xn--p1ai^
+! найдется-всё.рф
+||xn----7sbhgfw0a0bcg8l1a.xn--p1ai^
+! найдетсявсе.рф
+||xn--80aefebu0a0bbh8l.xn--p1ai^
+||ya-start.ru^
+||yaconnect.ru^
+||yandex-ilyasegalovich.com^
+||yandex-ilyasegalovich.ru^
+||yandex-launcher.com^
+||yandex-store.su^
+||yandexlauncher.com^
+||yandexmedia.ru^
+||yaprobki.ru^
+||yasobe.ru^
+||yasoberu.ru^
+||yate.ch^
+!
+! ======================================================================
+! Confianza MEDIA: delegados en los DNS internos de Yandex (ns3/ns4.yandex.ru), relación comercial no confirmada públicamente  [52]
+! ======================================================================
+||1dkd.kz^
+||ahigh.tech^
+||ahtech.am^
+||akkarbon.com^
+||alawander.com^
+||alawander.ru^
+||amaleya.ru^
+||astramotors24.com^
+||ayarmail.com^
+||bankbus.ru^
+||body-core.ru^
+||car-fin.com^
+||cashblack.ru^
+||devph.ru^
+||dkd.su^
+||dml-smart.ru^
+||doroga63.ru^
+||education-az.com^
+||fizard.ru^
+||fringodev.ru^
+||greg-test01.ru^
+||intertechsrvcs.com^
+||iron-hive.com^
+||jeeridoo.com^
+||jeeridoo.ru^
+||kaytun.com^
+||kurmaev.ru^
+||lunnen.pro^
+||magicamp.ru^
+||maxima-service.com^
+||mimosa.su^
+||mlnbeauty.ru^
+||moloje.store^
+||mosazimuth.ru^
+||mutedwear.ru^
+||nb9.ru^
+||neomail.ru^
+||network-lc.ru^
+||outstep.ru^
+||punk-culture.ru^
+||raskat-sport.ru^
+||remote-projects.com^
+||rituelle.ru^
+||rtec-domain.ru^
+||sanokat.ru^
+||skazbuka.org^
+||skinchief.ru^
+||tdsd.pro^
+||teleon.tech^
+||umo.auto^
+||vanlider.ru^
+||zebr-a.tech^
+!
+! ======================================================================
+! Auto.ru: VENDIDO a T-Technologies (cerrado el 02-06-2026) pero aún servido por los DNS de Yandex. Borra esta sección si no quieres bloquearlo  [36]
+! ======================================================================
+||102km.ru^
+||116auto.ru^
+||116avto.ru^
+||124km.ru^
+||161auto.ru^
+||161avto.ru^
+||161vipavto.ru^
+||178auto.ru^
+||178avto.ru^
+||34auto.ru^
+||34avto.ru^
+||55auto.ru^
+||55avto.ru^
+||72auto.ru^
+||72avto.ru^
+||86avto.ru^
+||89avto.ru^
+||93avto.ru^
+||apiauto.ru^
+||auto.ru^
+||auto29.ru^
+||autochel.ru^
+||autoi.ru^
+||autonn.ru^
+||autorost.ru^
+||autoru.dog^
+||autoru.me^
+||autoru.tv^
+||avto.ru^
+||avto59.ru^
+||avtochel.ru^
+||avtonet.ru^
+||avtoru.tv^
+||ecredit.dev^
+||omauto.ru^
+||omavto.ru^
+!
+! ======================================================================
+! Red de seguridad con expresiones regulares (atrapan dominios nuevos o no descubiertos)
+! ======================================================================
+! 1) Cualquier dominio cuyo nombre registrable empiece por 'yandex' en cualquier TLD:
+!    yandex.<lo-que-sea>, yandex-algo.xx, yandexalgo.xx, yandex.com.xx, yandex.co.xx ...
+/(^|\.)yandex[a-z0-9-]*\.((com|net|org|co|biz|info|web|gov|edu)\.)?[a-z0-9-]{2,}$/
+! 2) Cualquier yango.<TLD> o yango-algo.<TLD> (no toca 'yangon', la ciudad de Myanmar):
+/(^|\.)yango(-[a-z0-9-]+)?\.((com|net|org|co)\.)?[a-z0-9-]{2,}$/
+! 3) яндекс.<cualquier TLD> (яндекс en punycode = xn--d1acpjx3f):
+/(^|\.)xn--d1acpjx3f\.[a-z0-9-]{2,}$/
+!
+! Modo AGRESIVO (opcional): bloquea CUALQUIER nombre que contenga 'yandex' en cualquier parte,
+! incluso subdominios de terceros (p. ej. yandex.algun-sitio.com). Quita el '! ' para activarlo.
+! /yandex/
+!
+! ======================================================================
+! OPCIONAL: ex-Yandex (hoy pertenecen a otras empresas). Comentados por defecto.
+! ======================================================================
+! Dzen (ex Yandex.Zen) - VK desde 2022
+! ||dzen.ru^
+! Moi Krug (ex Yandex) - Habr Career
+! ||moikrug.ru^
+! YooMoney (ex Yandex.Money) - Sber
+! ||yoomoney.ru^
+! YooKassa (ex Yandex.Kassa) - Sber
+! ||yookassa.ru^
+! dominio antiguo de Yandex.Money - YooMoney
+! ||ya-money.ru^
+! dominio antiguo de Yandex.Money - YooMoney
+! ||yamoney.ru^
+! dominio antiguo de Yandex.Money - YooMoney
+! ||yamoney.info^
+! Nebius Group (ex Yandex N.V.)
+! ||nebius.com^
+! Nebius Group (ex Yandex N.V.)
+! ||nebius.ai^
+! Toloka (ex Yandex.Toloka) - Nebius
+! ||toloka.ai^
+! TripleTen (ex Practicum internacional) - Nebius
+! ||tripleten.com^
+! Avride (ex Yandex SDG internacional) - Nebius
+! ||avride.ai^
+! ClickHouse (spin-off de Yandex, independiente desde 2021)
+! ||clickhouse.com^
+!
+! ======================================================================
+! OPCIONAL: excepciones por si algo importante se rompe (quita el '! ' para activarlas)
+! ======================================================================
+! @@||mirror.yandex.ru^
+! @@||yastatic.net^
+! @@||smartcaptcha.yandexcloud.net^
+!
+! ======================================================================
+! DESCARTADOS a propósito (NO se bloquean): aparecen apuntando a DNS de Yandex pero son
+! sitios de terceros (delegaciones erróneas o clientes). Se listan sólo como referencia.
+! ======================================================================
+! airynpro.com alalvan.com arbolitecostroydom.ru atv-kaprolon.ru barox.co baroxoil.com
+! bircanuysal.com.tr bitlish.net bitlish.org bitubi.kg casualcafe.ru dcmap.ru
+! dstperm.ru dymuhasebe.com ebusmedia.com edumob.com energopribor.am enquadro.ru
+! esrauysal.com.tr fecusac.com friulair.ru fys.com.tr gebzeotomotiv.org gemsagrup.com
+! gim-service.top gorkemcakir.com greenclub-dubechino.ru ilkerbilgic.com ilkharitam.com indirimshop.com
+! izhcat.ru kartaldernek.org kashalot-invest.ru keothoi.us kmjsolutions.co.za kovakstech.ru
+! linkist.ru lovestyle.ru m.crit-m.ru mdi2b.com mirrors-store.ru mndtekstil.com
+! netloca.ru neurotech.pro npc-steklo.com ozdurmus.com paxlovid.win platan-rt.ru
+! rasales.ru samil.com.tr sibtorgmebel.ru tiana.pro tm18.ru uno-group.ru
+! xn--b1amabzbnja8b6f.xn--p1ai xn--d1acj3b.xn--d1acj3b xor.al zloz.ru
